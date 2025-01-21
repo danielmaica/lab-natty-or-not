@@ -11,5 +11,4 @@ Texto criado através do Copilot da Microsoft e tratado no ElevenLabs para reali
 ## 🚀 Resultados
 Vídeo de apresentação gerado completamente por IAs Generativas.
 
-## 💭 Reflexão (Opcional)
-Hoje em dia está completamente acessível a criação de conteúdo através das IAs Generativas, porém o conteúdo gratuito ainda deixa a desejar, o que não acontece no pago. Sabendo utilizar corretamente as ferramentas e investindo financeiramente para ter todo seu potencial liberado, é possível gerar conteúdos cada vez mais naturais e com muita qualidade.
+## 💭 Hoje em dia está completamente acessível a criação de conteúdo através das IAs Generativas, porém o conteúdo gratuito ainda deixa a desejar, o que não acontece no pago. Sabendo utilizar corretamente as ferramentas e investindo financeiramente para ter todo seu potencial liberado, é possível gerar conteúdos cada vez mais naturais e com muita qualidade.
